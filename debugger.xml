@@ -1,0 +1,20 @@
+<application>
+  <component name="XDebuggerSettings">
+    <data-views>
+      <sort-values>true</sort-values>
+      <option name="valueLookupDelay" value="200" />
+      <show-values-inline>false</show-values-inline>
+    </data-views>
+    <general>
+      <option name="hideDebuggerOnProcessTermination" value="true" />
+      <scroll-to-center>true</scroll-to-center>
+    </general>
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+    </debuggers>
+  </component>
+</application>

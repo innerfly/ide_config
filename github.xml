@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="65124aa7-cadb-4d60-9460-38f5a2e56a57" name="ellavrubel">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="innerfly" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
