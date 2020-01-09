@@ -150,6 +150,9 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
   <action id="tasks.switch" />
