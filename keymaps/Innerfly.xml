@@ -113,7 +113,11 @@
   <action id="OpenEditorInOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="OptimizeImports" />
+  <action id="OverrideMethods" />
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
