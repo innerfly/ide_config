@@ -25,6 +25,7 @@
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
   <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_ENTITIES" value="false" />
     <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
