@@ -4,7 +4,7 @@
     <property name="created">2019-12-12T14:41:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2019-12-19T17:13:15</property>
+    <property name="modified">2020-01-27T13:06:11</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -121,7 +121,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f23f6c" />
+        <option name="FOREGROUND" value="ff1700" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -162,7 +162,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff1b32" />
+        <option name="FOREGROUND" value="860037" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -175,6 +175,9 @@
         <option name="FOREGROUND" value="54b33e" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value />
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
