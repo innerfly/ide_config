@@ -11,7 +11,6 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".env.test.local" type="PLAIN_TEXT" />
       <mapping pattern=".TODO" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="error_dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
