@@ -114,6 +114,9 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="ImportTests">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="IntroduceConstant" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
