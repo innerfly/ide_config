@@ -1,5 +1,7 @@
 <templateSet group="PHP">
-  <template name="doc" value="/** @var $END$ */" description="variable docBlock" toReformat="false" toShortenFQNames="true">
+  <template name="doc" value="/** @var $TYPE$ $VAR$ */" description="variable docBlock" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
@@ -61,6 +63,11 @@
     </context>
   </template>
   <template name="docc" value="/**&#10;* @$END$&#10;*/" description="variable docBlock" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="dp" value="/**&#10;* @dataprovider $END$&#10;*/" description="dataProvider" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
