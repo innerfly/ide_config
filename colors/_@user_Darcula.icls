@@ -1,11 +1,21 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-11-11T16:41:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-03-09T17:12:56</property>
+    <property name="modified">2020-03-10T10:40:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
@@ -14,7 +24,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d81b27" />
+        <option name="FOREGROUND" value="a31b24" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
