@@ -4,7 +4,7 @@
     <property name="created">2019-11-11T16:41:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-03-10T13:12:50</property>
+    <property name="modified">2020-03-11T12:41:24</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <console-font>
@@ -29,15 +29,15 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1e2c3c" />
-        <option name="EFFECT_COLOR" value="3c4fcd" />
+        <option name="BACKGROUND" value="121b25" />
+        <option name="EFFECT_COLOR" value="293b8d" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="493931" />
-        <option name="EFFECT_COLOR" value="3c1c3c" />
+        <option name="BACKGROUND" value="380c2f" />
+        <option name="EFFECT_COLOR" value="3c4fcd" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
       </value>
     </option>
