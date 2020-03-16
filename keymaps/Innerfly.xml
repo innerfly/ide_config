@@ -2,6 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="shift alt g" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
@@ -42,6 +45,9 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="EditorCodeBlockEndWithSelection" />
   <action id="EditorCodeBlockStartWithSelection" />
@@ -182,6 +188,7 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="hg4idea.QGotoFromPatches" />
   <action id="tasks.open.in.browser" />
   <action id="tasks.switch" />
 </keymap>
