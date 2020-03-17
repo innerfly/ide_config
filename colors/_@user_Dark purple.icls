@@ -3,7 +3,7 @@
     <property name="created">2019-12-12T14:41:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-03-04T17:05:26</property>
+    <property name="modified">2020-03-17T17:17:42</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -158,7 +158,7 @@
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f23f6c" />
+        <option name="FOREGROUND" value="a31b24" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
