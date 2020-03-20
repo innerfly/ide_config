@@ -72,4 +72,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="rf" value="return false;" description="return false" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
