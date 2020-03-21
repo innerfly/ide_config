@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.log;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".env.test" type=".env file" />
-      <mapping pattern=".env.test.local" type=".env file" />
       <mapping pattern=".env.dev" type=".env file" />
+      <mapping pattern=".env.test.local" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping ext="info" type="Ini" />
       <mapping ext="profile" type="PHP" />
@@ -13,15 +13,15 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="error_dev" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".TODO" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="error_dev" type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
