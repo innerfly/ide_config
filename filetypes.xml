@@ -15,8 +15,8 @@
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="error_dev" type="PLAIN_TEXT" />
-      <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping pattern=".TODO" type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
