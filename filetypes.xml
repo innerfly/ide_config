@@ -3,7 +3,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern=".env.test.local" type=".env file" />
-      <mapping pattern=".env.test" type=".env file" />
       <mapping pattern=".env.dev" type=".env file" />
       <mapping pattern=".env.local" type=".env file" />
       <mapping ext="info" type="Ini" />
@@ -29,14 +28,13 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="lastquery_calc" type="SQL" />
       <mapping pattern="Lesson 4" type="XHTML" />
       <mapping pattern=".htaccess.shop" type="htaccess" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.*local" approved="true" type=".env file" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.*local" approved="true" type=".env file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
