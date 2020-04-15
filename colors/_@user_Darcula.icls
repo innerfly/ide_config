@@ -1,43 +1,23 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-11-11T16:41:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2020-04-14T16:51:25</property>
+    <property name="modified">2020-04-15T09:07:50</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
-    <option name="CONSOLE_GREEN_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="28c02e" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="a31b24" />
-      </value>
-    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="311831" />
-        <option name="EFFECT_COLOR" value="293b8d" />
+        <option name="BACKGROUND" value="344134" />
+        <option name="EFFECT_COLOR" value="535151" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="512451" />
-        <option name="EFFECT_COLOR" value="3c4fcd" />
+        <option name="BACKGROUND" value="40332b" />
+        <option name="EFFECT_COLOR" value="403e3e" />
         <option name="ERROR_STRIPE_COLOR" value="b56277" />
       </value>
     </option>
