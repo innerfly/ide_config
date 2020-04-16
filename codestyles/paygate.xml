@@ -12,6 +12,7 @@
     <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
   </MySQLCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="BLANK_LINES_AROUND_CONSTANTS" value="1" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
