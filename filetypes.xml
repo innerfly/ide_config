@@ -11,13 +11,13 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="val," type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern=".TODO" type="PLAIN_TEXT" />
-      <mapping pattern="freelancehunt-463fa2a1d954df6" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="error_dev" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="freelancehunt-463fa2a1d954df6" type="PLAIN_TEXT" />
+      <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
