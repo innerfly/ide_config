@@ -1,11 +1,21 @@
 <scheme name="_@user_Solarized Dark (4lex4)" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-04-30T16:43:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-30T18:25:31</property>
+    <property name="modified">2020-05-01T20:43:17</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
     <option name="ANNOTATIONS_COLOR" value="869798" />
@@ -89,17 +99,17 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="273259" />
     <option name="ScrollBar.Mac.thumbColor" value="6b808659" />
     <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="6b80861a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="384447" />
     <option name="ScrollBar.Transparent.thumbColor" value="99a6a547" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16414d" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.hoverTrackColor" value="" />
-    <option name="ScrollBar.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.thumbBorderColor" value="384447" />
     <option name="ScrollBar.thumbColor" value="99a6a547" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="3d5963" />
