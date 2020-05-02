@@ -9,27 +9,20 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern=".TODO" type="PLAIN_TEXT" />
       <mapping pattern="error_dev" type="PLAIN_TEXT" />
       <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="freelancehunt-463fa2a1d954df6" type="PLAIN_TEXT" />
+      <mapping pattern=".TODO" type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="lastquery_calc" type="SQL" />
       <mapping pattern="Lesson 4" type="XHTML" />
       <mapping pattern=".htaccess.shop" type="htaccess" />
