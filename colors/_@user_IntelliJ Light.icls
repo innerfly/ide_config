@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T15:52:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-17T10:20:32</property>
+    <property name="modified">2020-05-07T15:53:37</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <console-font>
@@ -23,6 +23,7 @@
     <option name="SELECTION_BACKGROUND" value="a6d2ff" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="d4d4d4" />
+    <option name="WHITESPACES" value="779ca3" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
@@ -267,6 +268,9 @@
         <option name="FOREGROUND" value="336ecc" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6dcc" />
@@ -301,6 +305,14 @@
         <option name="FOREGROUND" value="264eff" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="e63900" />
@@ -313,7 +325,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="93d9d9" />
+        <option name="BACKGROUND" value="99ccbb" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MATCHED_TAG_NAME">
