@@ -2,6 +2,11 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
@@ -46,17 +51,24 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
+  <action id="Editor Paste">
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift alt g" />
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorCodeBlockStart" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="shift alt button1" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
