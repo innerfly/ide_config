@@ -4,7 +4,7 @@
     <property name="created">2020-05-07T10:12:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-05-07T10:17:28</property>
+    <property name="modified">2020-05-08T09:38:51</property>
     <property name="originalScheme">Solarized Light (4lex4)</property>
   </metaInfo>
   <console-font>
@@ -321,7 +321,7 @@
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="839496" />
+        <option name="FOREGROUND" value="d2d2d2" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -331,7 +331,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d5e3e3" />
+        <option name="FOREGROUND" value="d2d2d2" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
