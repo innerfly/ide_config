@@ -1,11 +1,4 @@
 <templateSet group="PHP">
-  <template name="doc" value="/** @var $TYPE$ $VAR$ */" description="variable docBlock" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="t" value="$this-&gt;$END$" description="$this" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
@@ -58,11 +51,6 @@
     </context>
   </template>
   <template name="td" value="// TODO: $END$" description="TODO" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="docc" value="/**&#10;* @$END$&#10;*/" description="variable docBlock" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
