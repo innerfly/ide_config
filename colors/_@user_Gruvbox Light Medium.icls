@@ -4,12 +4,12 @@
     <property name="created">2020-06-02T10:40:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-02T12:42:53</property>
+    <property name="modified">2020-06-02T12:57:58</property>
     <property name="originalScheme">Gruvbox Light Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
@@ -33,7 +33,7 @@
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RIGHT_MARGIN_COLOR" value="f2e5bc" />
     <option name="SELECTED_TEARLINE_COLOR" value="427b58" />
-    <option name="SELECTION_BACKGROUND" value="bdae93" />
+    <option name="SELECTION_BACKGROUND" value="3c6aaa" />
     <option name="TEARLINE_COLOR" value="bdae93" />
   </colors>
   <attributes>
@@ -953,8 +953,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3836" />
-        <option name="BACKGROUND" value="83a598" />
+        <option name="BACKGROUND" value="fdfd36" />
         <option name="ERROR_STRIPE_COLOR" value="83a598" />
       </value>
     </option>
