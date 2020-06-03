@@ -4,7 +4,7 @@
     <property name="created">2020-06-02T15:12:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-06-03T11:55:54</property>
+    <property name="modified">2020-06-03T12:42:39</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
@@ -32,7 +32,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
-    <option name="SELECTION_BACKGROUND" value="665c54" />
+    <option name="SELECTION_BACKGROUND" value="2d5081" />
     <option name="TEARLINE_COLOR" value="665c54" />
   </colors>
   <attributes>
@@ -576,7 +576,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebdbb2" />
-        <option name="BACKGROUND" value="705d3f" />
+        <option name="BACKGROUND" value="c4702" />
         <option name="ERROR_STRIPE_COLOR" value="313008" />
       </value>
     </option>
