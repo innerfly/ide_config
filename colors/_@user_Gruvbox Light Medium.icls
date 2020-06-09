@@ -4,7 +4,7 @@
     <property name="created">2020-06-08T15:10:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-06-09T11:14:57</property>
+    <property name="modified">2020-06-09T12:07:49</property>
     <property name="originalScheme">Gruvbox Light Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -592,7 +592,7 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="282828" />
-        <option name="BACKGROUND" value="427b58" />
+        <option name="BACKGROUND" value="c7c8ce" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
