@@ -39,11 +39,6 @@
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
-  <template name="php" value="&lt;?php $END$ ?&gt;" description="php" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
   <template name="func" value="function($ARGS$) {&#10;    $END$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
     <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -69,6 +64,11 @@
   <template name="am" value="array_merge($END$)" description="array_merge" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="php" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
