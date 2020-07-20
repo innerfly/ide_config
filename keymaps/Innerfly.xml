@@ -107,9 +107,6 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="ctrl alt c" />
-  </action>
   <action id="Git.Log.Hide.Branches">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -135,7 +132,6 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="IntroduceConstant" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
