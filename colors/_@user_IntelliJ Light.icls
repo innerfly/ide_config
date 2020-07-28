@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T15:52:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-07-28T17:04:40</property>
+    <property name="modified">2020-07-28T17:57:32</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <console-font>
@@ -20,8 +20,7 @@
     <option name="CARET_ROW_COLOR" value="fcfaed" />
     <option name="GUTTER_BACKGROUND" value="f2f2f2" />
     <option name="LINE_NUMBERS_COLOR" value="adadad" />
-    <option name="SELECTION_BACKGROUND" value="a6d2ff" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="1264f1" />
     <option name="TEARLINE_COLOR" value="d4d4d4" />
     <option name="WHITESPACES" value="779ca3" />
   </colors>
