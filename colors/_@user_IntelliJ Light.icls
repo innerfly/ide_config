@@ -4,7 +4,7 @@
     <property name="created">2020-04-14T15:52:12</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-05-07T15:53:37</property>
+    <property name="modified">2020-07-28T15:57:49</property>
     <property name="originalScheme">IntelliJ Light</property>
   </metaInfo>
   <console-font>
@@ -280,7 +280,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="edebfc" />
+        <option name="BACKGROUND" value="dfc9be" />
         <option name="ERROR_STRIPE_COLOR" value="d0a1ff" />
       </value>
     </option>
@@ -391,7 +391,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fce8f4" />
+        <option name="BACKGROUND" value="cfd7ff" />
         <option name="ERROR_STRIPE_COLOR" value="f0a8d2" />
       </value>
     </option>
