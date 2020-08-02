@@ -109,6 +109,9 @@
   <action id="Git.Log.Hide.Branches">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Git.Menu">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
