@@ -104,7 +104,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="Git.Log.Hide.Branches">
     <keyboard-shortcut first-keystroke="ctrl h" />
