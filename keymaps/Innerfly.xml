@@ -16,6 +16,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -105,6 +106,9 @@
   </action>
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="Git.Log.Hide.Branches">
     <keyboard-shortcut first-keystroke="ctrl h" />
