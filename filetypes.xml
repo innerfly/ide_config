@@ -8,6 +8,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="freelancehunt-463fa2a1d954df6" type="PLAIN_TEXT" />
       <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
