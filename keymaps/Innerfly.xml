@@ -32,6 +32,10 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
@@ -196,9 +200,6 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
-  </action>
-  <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.SetValue" />
