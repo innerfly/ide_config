@@ -27,6 +27,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -70,6 +71,7 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
+  <action id="EditorPasteFromX11" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
