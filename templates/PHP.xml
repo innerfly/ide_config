@@ -50,7 +50,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="dp" value="dataprovider $END$" description="dataProvider" toReformat="false" toShortenFQNames="true">
+  <template name="dp" value="@dataprovider $END$" description="dataProvider" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
