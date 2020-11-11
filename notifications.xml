@@ -1,3 +1,7 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false" />
+  <component name="NotificationConfiguration">
+    <notification groupId="Automatic indent detection" />
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Vcs Important Messages" />
+  </component>
 </application>
