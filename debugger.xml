@@ -7,6 +7,7 @@
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
+      <run-to-cursor-gesture>false</run-to-cursor-gesture>
       <scroll-to-center>true</scroll-to-center>
     </general>
     <debuggers>
