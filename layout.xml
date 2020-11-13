@@ -40,11 +40,18 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="REST Client" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="x" value="756" />
-                    <option name="y" value="1440" />
+                    <option name="y" value="30" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
@@ -56,6 +63,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="npm" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Run" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -101,14 +116,10 @@
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="width" value="315" />
-                    <option name="height" value="1046" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Project" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
