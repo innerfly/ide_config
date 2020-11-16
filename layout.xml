@@ -395,7 +395,7 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="left" />
+                <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
@@ -489,15 +489,18 @@
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="x" value="1712" />
-                    <option name="width" value="208" />
-                    <option name="height" value="1125" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Database" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Find" />
+                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
