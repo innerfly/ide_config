@@ -3,6 +3,7 @@
     <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="previousVersionMigrated" value="true" />
     <option name="showEditorInlineBlame" value="false" />
+    <option name="showProjectViewStatus" value="false" />
     <option name="version" value="3" />
   </component>
 </application>
