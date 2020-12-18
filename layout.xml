@@ -51,23 +51,12 @@
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="x" value="101" />
-                    <option name="y" value="130" />
-                    <option name="width" value="1488" />
-                    <option name="height" value="937" />
+                    <option name="x" value="756" />
+                    <option name="y" value="1440" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
                 <option name="type" value="WINDOWED" />
-                <option name="visible" value="true" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="left" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Run" />
-                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
@@ -171,14 +160,6 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Favorites" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="left" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Debug" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
