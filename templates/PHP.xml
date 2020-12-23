@@ -76,7 +76,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="fn" value="fn($PARAM$) =&gt; $END$; " description="arrow function" toReformat="false" toShortenFQNames="true">
+  <template name="fn" value="fn($PARAM$) =&gt; $END$" description="arrow function" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
