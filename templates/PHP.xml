@@ -71,7 +71,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="mock" value="Mockery::mock($END$)" description="Mockery::mock()" toReformat="false" toShortenFQNames="true">
+  <template name="mc" value="Mockery::mock($END$)" description="Mockery::mock()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
