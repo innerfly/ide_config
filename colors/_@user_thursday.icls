@@ -4,12 +4,12 @@
     <property name="created">2021-01-16T20:28:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-16T20:35:54</property>
+    <property name="modified">2021-01-16T20:48:38</property>
     <property name="originalScheme">thursday</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Source Sans Pro SemiBold" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="LucidaMacBold" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="505050" />
     <option name="ANNOTATIONS_COLOR" value="505050" />
