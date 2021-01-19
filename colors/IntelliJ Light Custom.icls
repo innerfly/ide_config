@@ -4,7 +4,7 @@
     <property name="created">2021-01-16T21:25:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-01-19T12:53:17</property>
+    <property name="modified">2021-01-19T14:11:08</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -292,7 +292,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ae28e5" />
+        <option name="EFFECT_COLOR" value="21822b" />
         <option name="ERROR_STRIPE_COLOR" value="eebdbd" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
