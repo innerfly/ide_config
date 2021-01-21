@@ -203,12 +203,14 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift alt 2" />
+    <keyboard-shortcut first-keystroke="shift alt released 2" />
   </action>
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="TypeHierarchy" />
   <action id="Uml.ShowDiff" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift alt 1" />
+    <keyboard-shortcut first-keystroke="shift alt released 1" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
