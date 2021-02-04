@@ -23,17 +23,19 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="privf" value="private function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
+  <template name="privf" value="private function $NAME$($PARAMETERS$):$TYPE$ {&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
       <option name="PHP Trait Member" value="true" />
     </context>
   </template>
-  <template name="protf" value="protected function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="protected function" toReformat="true" toShortenFQNames="true">
+  <template name="protf" value="protected function $NAME$($PARAMETERS$):$TYPE$ {&#10;    $END$&#10;}" description="protected function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP Class Member" value="true" />
       <option name="PHP Trait Member" value="true" />
@@ -81,5 +83,11 @@
     <context>
       <option name="PHP" value="true" />
     </context>
+  </template>
+  <template name="pubf" value="public function $NAME$($PARAMETERS$):$TYPE$ {&#10;    $END$&#10;}" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
