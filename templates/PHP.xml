@@ -16,7 +16,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="k" value="'$KEY$' =&gt; '$VAL$',&#10;$END$" description="array" toReformat="false" toShortenFQNames="true">
+  <template name="k" value="'$KEY$' =&gt; $VAL$,&#10;$END$" description="array" toReformat="false" toShortenFQNames="true">
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
