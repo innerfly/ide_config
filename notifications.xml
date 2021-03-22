@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Automatic indent detection" />
     <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="Breakpoint hit" displayType="NONE" shouldLog="false" playSound="true" />
     <notification groupId="demo.notifications.balloon" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" />
