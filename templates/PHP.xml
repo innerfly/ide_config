@@ -90,4 +90,9 @@
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="p" value="private $END$" description="private" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
