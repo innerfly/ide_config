@@ -57,6 +57,7 @@
   <action id="Console.TableResult.PreviousPage" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift alt o" />
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="Editor SearchWeb">
@@ -191,6 +192,7 @@
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
+  <action id="SelectVirtualTemplateElement" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -209,6 +211,7 @@
     <keyboard-shortcut first-keystroke="shift alt 1" />
     <keyboard-shortcut first-keystroke="shift alt released 1" />
   </action>
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ShowMessageHistory">
