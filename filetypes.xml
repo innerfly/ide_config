@@ -18,8 +18,8 @@
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="lastquery_calc" type="SQL" />
