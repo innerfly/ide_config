@@ -5,6 +5,10 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
@@ -42,6 +46,7 @@
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.ShelveSilently" />
+  <action id="CheckinProject" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
