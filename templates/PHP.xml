@@ -96,9 +96,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="cons" value="public function __construct(&#10;    private $TYPE$ $VAR$,&#10;)&#10;{&#10;    $END$&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
+  <template name="cons" value="public function __construct(&#10;    private $TYPE$,&#10;)&#10;{&#10;}" description="constructor" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
