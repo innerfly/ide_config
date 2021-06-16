@@ -51,12 +51,19 @@
                 <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle>
-                    <option name="x" value="756" />
-                    <option name="y" value="1440" />
+                    <option name="y" value="32" />
                   </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
                 <option name="type" value="WINDOWED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Run" />
+                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
@@ -115,7 +122,7 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="left" />
+                <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
@@ -147,14 +154,6 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="make" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle />
@@ -162,12 +161,20 @@
                 <option name="id" value="Favorites" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Debug" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
             </array>
           </option>
         </Layout>
         <Layout>
           <option name="editorPlacement" value="1" />
-          <option name="name" value="Mi 34&quot;" />
+          <option name="name" value="mi_34&quot;" />
           <option name="toolWindows">
             <array>
               <ToolWindowInfo>
@@ -195,6 +202,14 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
+                <option name="anchor" value="bottom" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="File Transfer" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
@@ -205,17 +220,23 @@
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
-                  <Rectangle />
+                  <Rectangle>
+                    <option name="x" value="1212" />
+                    <option name="y" value="1736" />
+                    <option name="width" value="1226" />
+                    <option name="height" value="728" />
+                  </Rectangle>
                 </option>
                 <option name="id" value="Version Control" />
-                <option name="type" value="DOCKED" />
+                <option name="type" value="WINDOWED" />
+                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="npm" />
+                <option name="id" value="Run" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -261,17 +282,13 @@
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="width" value="420" />
-                    <option name="height" value="1364" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
                 <option name="id" value="Project" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="left" />
+                <option name="anchor" value="bottom" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
@@ -279,7 +296,7 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="left" />
+                <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
@@ -295,24 +312,19 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="right" />
+                <option name="anchor" value="left" />
                 <option name="bounds">
-                  <Rectangle>
-                    <option name="x" value="3028" />
-                    <option name="width" value="412" />
-                    <option name="height" value="1364" />
-                  </Rectangle>
+                  <Rectangle />
                 </option>
-                <option name="id" value="Structure" />
+                <option name="id" value="Find" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="make" />
+                <option name="id" value="Structure" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -321,6 +333,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Favorites" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Debug" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
