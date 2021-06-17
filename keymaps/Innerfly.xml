@@ -194,6 +194,8 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="SelectIn">
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
