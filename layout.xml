@@ -223,7 +223,7 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Version Control" />
-                <option name="type" value="DOCKED" />
+                <option name="type" value="WINDOWED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="left" />
@@ -319,6 +319,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Favorites" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="left" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Debug" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
