@@ -138,14 +138,6 @@
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
-                <option name="anchor" value="left" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Find" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
                 <option name="anchor" value="right" />
                 <option name="bounds">
                   <Rectangle />
