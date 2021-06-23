@@ -4,7 +4,7 @@
     <property name="created">2021-02-18T15:14:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-03-22T18:42:58</property>
+    <property name="modified">2021-06-23T16:04:23</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
@@ -121,6 +121,12 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f23f6c" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="616161" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
