@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
@@ -8,18 +8,18 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="freelancehunt-463fa2a1d954df6" type="PLAIN_TEXT" />
-      <mapping pattern="val," type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".TODO" type="PLAIN_TEXT" />
+      <mapping pattern="val," type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="error_dev" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="31016" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="lastquery_calc" type="SQL" />
