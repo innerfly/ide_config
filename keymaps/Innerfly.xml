@@ -188,7 +188,7 @@
   </action>
   <action id="PublishGroup.UploadTo" />
   <action id="QuickChangeScheme">
-    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
