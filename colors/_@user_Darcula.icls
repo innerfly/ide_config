@@ -4,7 +4,7 @@
     <property name="created">2021-01-19T10:21:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-08-31T13:05:05</property>
+    <property name="modified">2021-10-01T07:36:03</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -22,8 +22,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="29042b" />
-        <option name="EFFECT_COLOR" value="7a2689" />
+        <option name="BACKGROUND" value="30b3a" />
+        <option name="EFFECT_COLOR" value="292fc5" />
         <option name="ERROR_STRIPE_COLOR" value="36b13" />
       </value>
     </option>
