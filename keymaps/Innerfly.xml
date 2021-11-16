@@ -145,7 +145,9 @@
   </action>
   <action id="GitToolBox.BlameDetails" />
   <action id="GotoBookmark0" />
-  <action id="GotoChangedFile" />
+  <action id="GotoChangedFile">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="GotoClass" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
