@@ -203,6 +203,7 @@
     <keyboard-shortcut first-keystroke="alt f1" />
   </action>
   <action id="SelectVirtualTemplateElement" />
+  <action id="ServiceView.ShowServices" />
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
