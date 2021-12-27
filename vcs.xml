@@ -24,6 +24,7 @@
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -35,6 +36,7 @@
     <option name="CUSTOM_BOOLEAN_PROPERTIES">
       <map>
         <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+        <entry key="Navigate.Log.To.Branch.on.Branch.Selection" value="false" />
       </map>
     </option>
   </component>
