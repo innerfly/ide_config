@@ -4,10 +4,11 @@
     <property name="created">2021-02-28T18:11:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.2.0.0</property>
-    <property name="modified">2021-05-06T17:35:12</property>
+    <property name="modified">2022-02-11T10:37:54</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
@@ -1317,6 +1318,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="d37d36" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MAKO.ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1490,6 +1497,16 @@
     <option name="Object">
       <value>
         <option name="FOREGROUND" value="b58800" />
+      </value>
+    </option>
+    <option name="PHP_BRACES">
+      <value>
+        <option name="FOREGROUND" value="742fdc" />
+      </value>
+    </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="5345d" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
@@ -1708,11 +1725,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1740,11 +1752,6 @@
       <value>
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
