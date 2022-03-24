@@ -4,7 +4,7 @@
     <property name="created">2022-03-22T12:16:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-24T11:14:25</property>
+    <property name="modified">2022-03-24T15:48:06</property>
     <property name="originalScheme">Sepia</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -169,7 +169,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="928374" />
+        <option name="FOREGROUND" value="f8f9ff" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
