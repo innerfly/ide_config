@@ -6,6 +6,7 @@
     <notification groupId="demo.notifications.balloon" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="PHP External Quality Tools" displayType="NONE" />
     <notification groupId="Vcs Important Messages" />
   </component>
 </application>
