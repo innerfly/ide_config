@@ -42,6 +42,9 @@
   <action id="ChangesView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
   <action id="ChangesView.ShelveSilently" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
