@@ -10,7 +10,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
           <option name="name" value="lightTheme" />
-          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf Sepia" />
+          <option name="value" value="com.intellij.ide.ui.laf.IntelliJLaf IntelliJ Light" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:IDE Theme:group_0" />
@@ -30,7 +30,7 @@
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
           <option name="name" value="lightCodeScheme" />
-          <option name="value" value="_@user_Sepia" />
+          <option name="value" value="_@user_IntelliJ Light" />
         </Entry>
         <Entry>
           <option name="groupIdentifier" value="general_settings:Editor Theme:group_0" />
