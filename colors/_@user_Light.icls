@@ -4,12 +4,12 @@
     <property name="created">2022-05-30T12:30:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-05-31T16:07:44</property>
+    <property name="modified">2022-06-02T10:16:14</property>
     <property name="originalScheme">Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="7fc784" />
     <option name="ANNOTATIONS_COLOR" value="5a5d6b" />
