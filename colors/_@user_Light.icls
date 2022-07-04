@@ -4,7 +4,7 @@
     <property name="created">2022-05-30T12:30:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.1.0.0</property>
-    <property name="modified">2022-06-15T09:32:32</property>
+    <property name="modified">2022-07-01T19:03:24</property>
     <property name="originalScheme">Light</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -305,7 +305,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="edebfc" />
+        <option name="BACKGROUND" value="fcecf5" />
+        <option name="EFFECT_COLOR" value="fcc9c9" />
         <option name="ERROR_STRIPE_COLOR" value="d0a1ff" />
       </value>
     </option>
@@ -411,7 +412,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fce8f4" />
+        <option name="BACKGROUND" value="fcd5eb" />
         <option name="ERROR_STRIPE_COLOR" value="f0a8d2" />
       </value>
     </option>
