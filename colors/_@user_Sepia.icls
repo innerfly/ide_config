@@ -4,7 +4,7 @@
     <property name="created">2022-03-22T12:16:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-04-01T11:50:30</property>
+    <property name="modified">2022-07-06T14:53:25</property>
     <property name="originalScheme">Sepia</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -49,6 +49,7 @@
     <option name="LINE_NUMBERS_COLOR" value="a89984" />
     <option name="LOOKUP_COLOR" value="f9f5d7" />
     <option name="MODIFIED_LINES_COLOR" value="83a598" />
+    <option name="MODIFIED_TAB_ICON" value="1080f8" />
     <option name="PROMOTION_PANE" value="fbf1c7" />
     <option name="QUESTION_HINT" value="fbf1c7" />
     <option name="READONLY_BACKGROUND" value="fbf1c7" />
@@ -606,6 +607,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="458588" />
@@ -663,6 +667,14 @@
       </value>
     </option>
     <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="fb4934" />
@@ -708,7 +720,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a709ef" />
+        <option name="BACKGROUND" value="99ccbb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
