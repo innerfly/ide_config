@@ -5,6 +5,9 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
@@ -84,6 +87,10 @@
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt minus" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
+    <keyboard-shortcut first-keystroke="alt back_space" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt equals" />
